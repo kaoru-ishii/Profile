@@ -95,7 +95,7 @@
                     <div class="production">
                         <div class="upper_row">
                             <div class="production_box">
-                                <a href="../training/view/login.php" rel="noopener" target="blank">
+                                <a href="" rel="noopener" target="blank">
                                     <img class="portfolio_img" src="../images/training.jpg" alt="筋力トレーニング">
                                     <h4>筋力トレーニング</h4>
                                     <div class="line"></div>
