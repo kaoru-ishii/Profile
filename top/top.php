@@ -95,7 +95,7 @@
                     <div class="production">
                         <div class="upper_row">
                             <div class="production_box">
-                                <a href="" rel="noopener" target="blank">
+                                <a href="https://github.com/kaoru-ishii/training_app_Laravel" rel="noopener" target="blank">
                                     <img class="portfolio_img" src="../images/training.jpg" alt="筋力トレーニング">
                                     <h4>筋力トレーニング</h4>
                                     <div class="line"></div>
