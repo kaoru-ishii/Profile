@@ -1,5 +1,5 @@
 {
-    "require": {
-      "php": "7.3.29"
-    }
+  "require": {
+    "silex/silex": "~1.1"
   }
+}
