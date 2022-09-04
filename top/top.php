@@ -130,7 +130,7 @@
                             </div>
                             <div class="production_box">
                                 <a href="">
-                                    <div class="portfolio">画像</div>
+                                    <div class="portfolio">削除</div>
                                     <!-- <img src="../images/image04.jpg" alt=""> -->
                                     <h4>小項目</h4>
                                     <div class="line"></div>
@@ -139,7 +139,7 @@
                             </div>
                             <div class="production_box">
                                 <a href="">
-                                    <div class="portfolio">画像</div>
+                                    <div class="portfolio">削除</div>
                                     <!-- <img src="../images/image04.jpg" alt=""> -->
                                     <h4>小項目</h4>
                                     <div class="line"></div>
