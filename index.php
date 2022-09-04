@@ -1,1 +1,1 @@
-<?php include_once("top.php"); ?>
+<?php include_once("./top/top.php"); ?>
