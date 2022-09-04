@@ -49,6 +49,7 @@ header ul  {
 }
 
 header li {
+    margin-left: 30px;
     font-size: 1.4rem;
 }
 
@@ -119,6 +120,11 @@ header li {
 
     .toggle {
         transform: translateY(0);
+    }
+
+    header li {
+        margin-left: none;
+        font-size: 1.4rem;
     }
 
     .sp_nav ul {
