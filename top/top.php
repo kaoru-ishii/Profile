@@ -4,7 +4,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
-    <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script> -->
     <script src="../js/main.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -55,39 +54,37 @@
                     <h2>自己紹介</h2>
                     <div class="">
                         <div class="my_picture">
-                                <p><img src="../images/my_picture.jpg" alt=""></p>
-                                <p><img src="../images/basketball.jpg" alt=""></p>
-                                <p><img src="../images/jounangu.jpg" alt=""></p>
-                                <p><img src="../images/cake.jpg" alt=""></p>
+                            <p><img src="../images/my_picture.jpg" alt=""></p>
+                            <p><img src="../images/basketball.jpg" alt=""></p>
+                            <p><img src="../images/jounangu.jpg" alt=""></p>
+                            <p><img src="../images/cake.jpg" alt=""></p>
                         </div>
                     </div>
                     <div class="profile">
-                        <table>
-                            <tr>
-                                <th>名前</th>
-                                <td>石井 薫(29)</td>
-                            </tr>
-                            <tr>
-                                <th>生年月日</th>
-                                <td>1993年05月06日(木)</td>
-                            </tr>
-                            <tr>
-                                <th>出身地</th>
-                                <td>大阪府高槻市</td>
-                            </tr>
-                            <tr>
-                                <th>趣味</th>
-                                <td>バスケットボール(歴:16年)、散歩、スイーツ巡り</td>
-                            </tr>
-                            <tr>
-                                <th>職歴</th>
-                                <td>
-                                    保育士(1年)　　　担任：5歳児
-                                    <br>
-                                    体育指導員(4年)　役職：主任
-                                </td>
-                            </tr>
-                        </table>
+                        <div class="profile_column">
+                            <p><b>○名前</b></p>
+                            <p>　石井 薫(29)</p>
+                        </div>
+                        <div class="profile_column">
+                            <p><b>○生年月日</b></p>
+                            <p>　1993年05月06日(木)</p>
+                        </div>
+                        <div class="profile_column">
+                            <p><b>○出身地</b></p>
+                            <p>　大阪府高槻市</p>
+                        </div>
+                        <div class="profile_column">
+                            <p><b>○趣味</b></p>
+                            <p>　バスケットボール(歴:16年)、散歩、スイーツ巡り</p>
+                        </div>
+                        <div class="profile_column">
+                            <p><b>○職歴</b></p>
+                            <p>
+                                　保育士(1年)　　　担任：5歳児
+                                <br>
+                                　体育指導員(4年)　役職：主任
+                            </p>
+                        </div>
                     </div>
                 </div>
                 <div id="portfolio" class="production_wrapper">
@@ -95,11 +92,27 @@
                     <div class="production">
                         <div class="paragraph">
                             <div class="production_box">
-                                <a href="https://github.com/kaoru-ishii/training_app_Laravel" rel="noopener" target="blank">
-                                    <img class="portfolio_img" src="../images/training.jpg" alt="筋力トレーニング">
+                                <a href="">
+                                <img class="portfolio_img" src="../images/training.jpg" alt="筋力トレーニング">
                                     <h4>筋力トレーニング</h4>
                                     <div class="line"></div>
                                     <p>筋鍛えて理想のボディを手に入れよう！</p>
+                                </a>
+                            </div>
+                            <div class="production_box">
+                                <a href="https://github.com/kaoru-ishii/training_app_Laravel" rel="noopener" target="blank">
+                                    <img class="portfolio_img" src="../images/training.jpg" alt="筋力トレーニング">
+                                    <h4>筋力トレーニング github</h4>
+                                    <div class="line"></div>
+                                    <p>Laravelを使用したコードをgithubで確認</p>
+                                </a>
+                            </div>
+                            <div class="production_box" rel="noopener" target="blank">
+                                <a href="../poster/poster.php">
+                                    <img src="../images/ai_ps_list.jpg" alt="">
+                                    <h4>ポスター</h4>
+                                    <div class="line"></div>
+                                    <p>Illustlater & Photoshop 制作物</p>
                                 </a>
                             </div>
                             <div class="production_box">
@@ -118,32 +131,12 @@
                                     <p>じゃんけん勝負をしよう！</p>
                                 </a>
                             </div> 
-                        </div>
-                        <div class="paragraph">
-                            <div class="production_box" rel="noopener" target="blank">
-                                <a href="../poster/poster.php">
-                                    <img src="../images/ai_ps_list.jpg" alt="">
-                                    <h4>ポスター</h4>
-                                    <div class="line"></div>
-                                    <p>Illustlater & Photoshopでの制作物</p>
-                                </a>
-                            </div>
                             <div class="production_box">
-                                <a href="">
-                                    <div class="portfolio">削除</div>
+                                <a href="https://github.com/kaoru-ishii">
                                     <!-- <img src="../images/image04.jpg" alt=""> -->
-                                    <h4>小項目</h4>
+                                    <h4>github 一覧</h4>
                                     <div class="line"></div>
-                                    <p>本文</p>
-                                </a>
-                            </div>
-                            <div class="production_box">
-                                <a href="">
-                                    <div class="portfolio">削除</div>
-                                    <!-- <img src="../images/image04.jpg" alt=""> -->
-                                    <h4>小項目</h4>
-                                    <div class="line"></div>
-                                    <p>本文</p>
+                                    <p>制作したコードをgithubで確認</p>
                                 </a>
                             </div>
                         </div>
