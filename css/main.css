@@ -142,12 +142,12 @@ main {
     margin-top: 20px;
 }
 
-.upper_row {
+.paragraph {
     display: flex;
     margin-bottom: 20px;
 }
 
-.upper_row a {
+.paragraph a {
     text-decoration: none;
 }
 
@@ -278,7 +278,7 @@ nav ul li:hover,
     display: block;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 650px) {
     .pc_nav {
         display: none;
     }
@@ -295,7 +295,7 @@ nav ul li:hover,
 
     .profile_wrapper img {
         width: 100%;
-        height: 100px;
+        height: auto;
     }
 
     .production_box img {
@@ -304,5 +304,20 @@ nav ul li:hover,
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+
+    .my_picture {
+        display: block;
+        margin-top: 10px;
+        border-radius: 5px;
+    }
+
+    .profile_picture{
+        display: flex;
+    }
+
+    .profile_box {
+        margin-bottom: 20px;
+        display: block;
     }
 }

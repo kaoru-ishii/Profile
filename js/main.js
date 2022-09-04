@@ -9,11 +9,12 @@ $(function (){
 
 $('header nav').find('a').each(function(idx){
     $(this).jKit('scroll', {
-        'offset':-120,
+        // 'offset':-120,
         'speed':1000
     });
 });
 
+// スクロールボタン
 $(document).ready(function() {
     $(".btn-top").hide(); // 初期位置ではボタンを非表示
     $(window).on("scroll", function() {

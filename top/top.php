@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <script type="text/javascript" src="http://code.jquery.com/jquery-3.1.0.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <!-- <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script> -->
     <script src="../js/main.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -35,7 +35,7 @@
                 <li><a href="#portfolio">制作物</a></li>
                 <li><a href="#work_history">職務経歴書</a></li>
                 <li><a href="#contact">お問い合わせ</a></li>
-                <li><a href="">閉じる</a></li>
+                <li class="close"><a href="">閉じる</a></li>
             </ul>
         </nav>
         <div id="hamburger">
@@ -93,7 +93,7 @@
                 <div id="portfolio" class="production_wrapper">
                     <h2>Portfolio</h2>
                     <div class="production">
-                        <div class="upper_row">
+                        <div class="paragraph">
                             <div class="production_box">
                                 <a href="https://github.com/kaoru-ishii/training_app_Laravel" rel="noopener" target="blank">
                                     <img class="portfolio_img" src="../images/training.jpg" alt="筋力トレーニング">
@@ -119,7 +119,7 @@
                                 </a>
                             </div> 
                         </div>
-                        <div class="upper_row">
+                        <div class="paragraph">
                             <div class="production_box" rel="noopener" target="blank">
                                 <a href="../poster/poster.php">
                                     <img src="../images/ai_ps_list.jpg" alt="">
