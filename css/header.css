@@ -49,9 +49,7 @@ header ul  {
 }
 
 header li {
-    margin-left: 30px;
     font-size: 1.4rem;
-
 }
 
 .sp_nav {
@@ -110,8 +108,8 @@ header li {
     .sp_nav {
         position: fixed;
         top: 0;
-        left: 70%;
-        width: 30%;
+        left: 65%;
+        width: 35%;
         height: 100%;
         display: block;
         background-color: #08b;
