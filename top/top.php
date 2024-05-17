@@ -45,7 +45,7 @@
         <section id="top" class="image_section">
             <img class="image" src="../images/top.jpg" alt="">
             <p class="text">
-                Welcome My pege
+                Welcome My pege !
             </p>
         </section>
         <section class="detail_section">
