@@ -63,7 +63,7 @@
                     <div class="profile">
                         <div class="profile_column">
                             <p><b>○名前</b></p>
-                            <p>　石井 薫(29)</p>
+                            <p>　石井 薫(31)</p>
                         </div>
                         <div class="profile_column">
                             <p><b>○生年月日</b></p>
@@ -75,7 +75,7 @@
                         </div>
                         <div class="profile_column">
                             <p><b>○趣味</b></p>
-                            <p>　バスケットボール(歴:16年)、散歩、スイーツ巡り</p>
+                            <p>　バスケットボール(歴:19年)、散歩、スイーツ巡り</p>
                         </div>
                         <div class="profile_column">
                             <p><b>○職歴</b></p>
@@ -83,6 +83,8 @@
                                 　保育士(1年)　　　担任：5歳児
                                 <br>
                                 　体育指導員(4年)　役職：主任
+                                <br>
+                                　SES(１年３ヵ月)(現)
                             </p>
                         </div>
                     </div>
@@ -156,19 +158,25 @@
                                 <td><a href="https://m-tsubasa.ed.jp/irodori/">社会福祉法人<br>博光福祉会<br>彩つばさ保育園</a></td>
                                 <td>保育士</td>
                                 <td>１年</td>
-                                <td>５歳児の担任(加配担当)</td>
+                                <td>５歳児クラス担任</td>
                             </tr>
                             <tr>
                                 <td><a href="https://www.tsubasa-sports-academy.jp/">社会福祉法人<br>博光福祉会<br>体育指導員</a></td>
                                 <td>体育指導員(主任)</td>
                                 <td>４年</td>
-                                <td>大阪、京都、兵庫、11園ある姉妹園の幼児(小学生)に体育を指導する。</td>
+                                <td>大阪、京都、兵庫、11ヵ園ある姉妹園の幼児(小学生)に運動を指導する。</td>
                             </tr>
                             <tr>
                                 <td>個人事業主</td>
                                 <td>ネットショップ</td>
                                 <td>２年</td>
                                 <td>ＥＣサイトを利用して物販を行う。</td>
+                            </tr>
+                            <tr>
+                            <td><a href="https://www.axas-japan.co.jp/">アクサス株式会社
+                                <td>・開発<br>・ヘルプデスク/保守運用</td>
+                                <td>(４ヵ月)<br>(１年３ヵ月)</td>
+                                <td>PlantUML、VBA(マクロ)、簡易なサイト作成<br>運用中のシステム更改検討プロジェクト</td>
                             </tr>
                         </table>
                         <div class="gmap">
